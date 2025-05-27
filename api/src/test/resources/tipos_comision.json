@@ -1,0 +1,22 @@
+[
+  {
+    "tcoId": 1,
+    "tcoNombre": "PUBLICACION"
+  },
+  {
+    "tcoId": 2,
+    "tcoNombre": "ACTUALIZACION"
+  },
+  {
+    "tcoId": 3,
+    "tcoNombre": "RESERVA"
+  },
+  {
+    "tcoId": 4,
+    "tcoNombre": "CANCELACION"
+  },
+  {
+    "tcoId": 5,
+    "tcoNombre": "PAGO"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "cueId": 1,
+    "cueNombreUsuario": "John",
+    "cueClave": "12345aeiou",
+    "cueFotoPerfil": [
+      16,
+      16,
+      16,
+      16,
+      16,
+      16
+    ],
+    "cueTelefono": "123456789",
+    "cueCorreo": "john@mail.com",
+    "cueIdBanco": "424242424242",
+    "cueSaldo": 20000,
+    "cueFechaCreacion": "2020-10-01",
+    "anfCalificacionMedia": 5,
+    "anfEmpresa": "BestHosting"
+  }
+]

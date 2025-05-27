@@ -1,0 +1,18 @@
+[
+  {
+    "ersId": 1,
+    "ersNombre": "PAGADA"
+  },
+  {
+    "ersId": 2,
+    "ersNombre": "CANCELADA"
+  },
+  {
+    "ersId": 3,
+    "ersNombre": "INICIADA"
+  },
+  {
+    "ersId": 4,
+    "ersNombre": "FINALIZADA"
+  }
+]

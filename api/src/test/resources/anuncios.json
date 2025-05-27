@@ -1,0 +1,20 @@
+[
+  {
+    "anuId": 1,
+    "anuTitulo": "Casa acogedora",
+    "anuPrecioPorNoche": 30000,
+    "anuCalificacionTotal": 5,
+    "anuDescripcion": "Alojamiento de calidad",
+    "anuCamas": 2,
+    "anuCapacidadHuespedes": 2,
+    "anuBanios": 1,
+    "anuPiezas": 2,
+    "anuFechaCreacion": "2021-08-25",
+    "anuFechaInicio": "2021-10-10",
+    "anuFechaTermino": "2021-10-30",
+    "anuCoordenadas": "(50, 50)",
+    "anuReglas": "Mantener el lugar limpio",
+    "anuServicios": "Wi-FI, 1 estacionamiento"
+  }
+]
+

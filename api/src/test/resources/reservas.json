@@ -1,0 +1,20 @@
+[
+  {
+    "resId": 1,
+    "resPrecioTotal": 99000,
+    "resCantidadHuespedes": 2,
+    "resFechaCreacion": "2021-10-15",
+    "resFechaInicio": "2021-10-10",
+    "resFechaTermino": "2021-10-15"
+  },
+  {
+    "resId": 2,
+    "resPrecioTotal": 33000,
+    "resCantidadHuespedes": 1,
+    "resFechaCreacion": "2021-10-18",
+    "resFechaInicio": "2021-10-20",
+    "resFechaTermino": "2021-10-21"
+  }
+]
+
+

@@ -1,0 +1,29 @@
+[
+  {
+    "comId": 1,
+    "comIdTransaccion": "trs_aaaa",
+    "comValor": 600,
+    "comFechaCreacion": "2021-08-25 12:00"
+  },
+  {
+    "comId": 2,
+    "comIdTransaccion": "trs_bbbb",
+    "comValor": 99000,
+    "comFechaCreacion": "2021-10-01 16:30"
+  },
+  {
+    "comId": 3,
+    "comIdTransaccion": "trs_cccc",
+    "comValor": 90000,
+    "comFechaCreacion": "2021-10-15 23:59"
+  },
+  {
+    "comId": 5,
+    "comIdTransaccion": "trs_eeee",
+    "comValor": 26400,
+    "comFechaCreacion": "2021-10-18 11:00"
+  }
+]
+
+
+
